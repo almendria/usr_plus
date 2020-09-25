@@ -1,0 +1,25 @@
+body {
+    background: #eee;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Helvetica Neue;
+}
+
+#frm {
+    border: 1px solid gray;
+    width: 20%;
+    border-radius: 5px;
+    background: white;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10% auto;
+}
+
+#btn {
+    color: #fff;
+    background: #337ab7;
+    padding: 5px;
+    margin-left: 69%;
+}
